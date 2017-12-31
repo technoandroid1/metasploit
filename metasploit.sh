@@ -1,4 +1,3 @@
-
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
 echo " I  AM  NISHANT , PLZ SUBSCRIBE MY CHANNEL TECHNO ANDROID"
