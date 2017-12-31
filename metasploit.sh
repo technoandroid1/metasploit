@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo " I  AM  NISHANT , PLZ SUBSCRIBE MY CHANNEL TECHNO ANDROID"
+echo " I  AM  NISHANT , PLZ SUBSCRIBE MY CHANNEL  TECHNO ANDROID"
 echo "##############################################"
 
 echo "WAIT UNTIL INSTALLING............" 
@@ -62,12 +62,14 @@ createuser msf
 createdb msf_database
 
 echo "###############################"
+echo "Thanx  To  Vishalbiswani"
 echo "###############################"
 
 echo "###############################################"
-echo "Hello  I  Am  Nishant  ,  Subscribe  My  Channel techno android To  Motivate  My  Work"
+echo "Hello  I  Am  Nishant , Subscribe  My  Channel techno android To  Motivate  My  Work"
 echo "###############################################"
 echo "###############################"
+echo "ANY PROBLEM CONTACT ME ON WHATSAPP (8999803586)"
 echo "###############################"
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
