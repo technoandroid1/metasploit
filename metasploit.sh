@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo " TechZindia, PLZ SUBSCRIBE TechZindia YouTube CHANNEL"
+echo " TecchnicalNishant, PLZ SUBSCRIBE TecchnicalNishant YouTube CHANNEL"
 echo "##############################################"
 
 echo "WAIT UNTIL INSTALLING............" 
@@ -50,15 +50,15 @@ ln -s $HOME/metasploit-framework/msfconsole /data/data/com.termux/files/usr/bin/
 echo "###############################"
 echo "Thanks  To  Vishalbiswani & Auxilus "
 echo "###############################"
-figlet TechZindia
+figlet TechnicalNishant
 echo "###############################################"
-echo "Hello Guys,  Subscribe  My TechZindia YouTube channel"
+echo "Hello Guys,  Subscribe  My TechnicalNishant YouTube channel"
 figlet Subscribe
 echo "###############################################"
 echo "###############################"
-echo "For More Hacking video At TechZindia YT Channel"
+echo "For More Hacking video At TechnicalNishant YT Channel"
 echo "###############################"
-figlet TechZindia
+figlet TechnicalNishant
 echo "####################################"
 echo " NOW YOU CAN RUN METASPLOIT BY JUST EXECUTE THE COMMAND :=>  ./msfconsole"
 echo "####################################"
